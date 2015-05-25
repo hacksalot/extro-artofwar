@@ -1,0 +1,23 @@
+{
+  "name": "art-of-war",
+  "version": "0.1.0",
+  "authors": [
+    "James Devlin <james@indevious.com>"
+  ],
+  "description": "Sun Tzu's Art of War in 3D. Powered by Extrovert.js.",
+  "main": "index.html",
+  "dependencies": {
+    "extrovert.js": "~0.1.3"
+  },
+  "keywords": [
+    "Extrovert.js",
+    "THREE.js",
+    "3D",
+    "WebGL"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/devlinjd/art-of-war",
+  "resolutions": {
+    "threejs": "5c7e0df9b1"
+  }
+}
